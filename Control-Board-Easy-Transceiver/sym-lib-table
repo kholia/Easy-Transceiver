@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Control-Board-rescue")(type "Legacy")(uri "${KIPRJMOD}/Control-Board-rescue.lib")(options "")(descr ""))
+  (lib (name "si5351module_2-vfo")(type "KiCad")(uri "/home/dhiru/Desktop/si5351module_2-vfo.kicad_sym")(options "")(descr ""))
+)

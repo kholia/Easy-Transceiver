@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "ADX-rescue")(type "Legacy")(uri "${KIPRJMOD}/ADX-rescue.lib")(options "")(descr ""))
+  (lib (name "ADX-cache")(type "Legacy")(uri "${KIPRJMOD}/ADX-cache.lib")(options "")(descr ""))
+  (lib (name "CD2003 Library")(type "Legacy")(uri "${KIPRJMOD}/libraries/CD2003 Library.lib")(options "")(descr ""))
+  (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/libraries/MCU_RaspberryPi_and_Boards.kicad_sym")(options "")(descr ""))
+  (lib (name "pico")(type "KiCad")(uri "${KIPRJMOD}/libraries/pico.kicad_sym")(options "")(descr ""))
+)

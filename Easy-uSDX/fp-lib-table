@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "VFO_footprint")(type "KiCad")(uri "${KIPRJMOD}/VFO/VFO_footprint.pretty")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "SDR_SSB-rescue")(type "Legacy")(uri "${KIPRJMOD}/SDR_SSB-rescue.lib")(options "")(descr ""))
+  (lib (name "dk_Embedded-Microcontrollers")(type "Legacy")(uri "${KIPRJMOD}/libraries/dk_Embedded-Microcontrollers.lib")(options "")(descr ""))
+  (lib (name "atmega328-pu")(type "KiCad")(uri "${KIPRJMOD}/libraries/atmega328-pu.kicad_sym")(options "")(descr ""))
+)

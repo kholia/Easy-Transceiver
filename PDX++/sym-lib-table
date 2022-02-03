@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "QRPLABS_LPF")(type "Legacy")(uri "${KIPRJMOD}/QRPLABS LPF/QRPLABS_LPF.lib")(options "")(descr ""))
+  (lib (name "ADX-rescue")(type "Legacy")(uri "${KIPRJMOD}/ADX-rescue.lib")(options "")(descr ""))
+  (lib (name "pico")(type "KiCad")(uri "${KIPRJMOD}/libraries/pico.kicad_sym")(options "")(descr ""))
+  (lib (name "CD2003 Library")(type "Legacy")(uri "${KIPRJMOD}/libraries/CD2003 Library.lib")(options "")(descr ""))
+)

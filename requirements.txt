@@ -1,0 +1,6 @@
+# Use `apt install python3-scipy python3-numpy` on RPi
+scipy
+numpy
+pyyaml
+pyserial
+console-menu

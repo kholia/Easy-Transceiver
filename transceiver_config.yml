@@ -1,0 +1,6 @@
+# Transceiver configuration file
+callsign: VU3CER
+grid: MK68
+power_dbm: 30
+serial_port: '/dev/ttyUSB0'
+baudrate: 38400
